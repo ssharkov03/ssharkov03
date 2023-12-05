@@ -1,4 +1,10 @@
 ### Hello there 👋
+I’m a full stack Machine Learning Engineer with 3+ years experience. I’m interested in designing and building complex
+systems involving ML and other technologies. Moreover, one of my interests is applied ML, mostly for financial and
+medical spheres. My research interests are out of distribution generalization and bayesian invariant risk minimization.
+
+Here is my [resume](https://drive.google.com/file/d/1Mv3UYI7MFtMJlg1o62aPbQwY9alb9fg-/view?usp=sharing)
+
 [![ssharkov03's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssharkov03&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![ssharkov03's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ssharkov03&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssharkov03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

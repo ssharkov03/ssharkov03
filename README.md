@@ -1,7 +1,5 @@
 ### Hello there 👋
-I’m a full stack Machine Learning Engineer with 3+ years experience. I’m interested in designing and building complex
-systems involving ML and other technologies. Moreover, one of my interests is applied ML, mostly for financial and
-medical spheres. My research interests are out of distribution generalization and bayesian invariant risk minimization.
+I'm a full stack Machine Learning Engineer with 3+ years experience. I'm interested in implementing valuable ML-based solutions to complex problems to business and customers. I mostly specialize at Computer Vision, but also have relevant experience at Classical ML, NLP, Multi-modality. Moreover, one of my interests is applied ML, especially for financial and medical spheres.
 
 Here is my [resume](https://drive.google.com/file/d/1EOEQ0AC0SdVeVkH8__PeOhGf_0PUH5Te/view?usp=sharing)
 

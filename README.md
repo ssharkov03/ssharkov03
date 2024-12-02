@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a full stack Machine Learning Engineer with 3+ years experience. I'm interested in implementing valuable ML-based solutions to complex problems to business and customers. I mostly specialize at Computer Vision, but also have relevant experience at Classical ML, NLP, Multi-modality. Moreover, one of my interests is applied ML, especially for financial and medical spheres.
+I'm a full stack Machine Learning Engineer with 4+ years experience. I'm interested in delivering valuable ML-based solutions of complex problems to business and customers. I mostly specialize at Computer Vision, but also have relevant experience at Multi-modality, NLP, Classical ML, GenAI. One of my research interests is robust learning for multi-modal language models. I'm looking for \textbf{ML Engineer/Researcher position
 
 Here is my [resume](https://drive.google.com/file/d/1EOEQ0AC0SdVeVkH8__PeOhGf_0PUH5Te/view?usp=sharing)
 

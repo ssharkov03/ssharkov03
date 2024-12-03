@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm a full stack Machine Learning Engineer with 4+ years experience. I'm interested in delivering valuable ML-based solutions of complex problems to business and customers. I mostly specialize at Computer Vision, but also have relevant experience at Multi-modality, NLP, Classical ML, GenAI. One of my research interests is robust learning for multi-modal language models. 
 
-Here is my [resume](https://drive.google.com/file/d/1EOEQ0AC0SdVeVkH8__PeOhGf_0PUH5Te/view?usp=sharing)
+Here is my [resume](https://drive.google.com/file/d/16XqkGWciiHC-8i9vrTLWDWmvgjDXS8cq/view?usp=sharing)
 
 [![ssharkov03's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssharkov03&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![ssharkov03's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ssharkov03&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
